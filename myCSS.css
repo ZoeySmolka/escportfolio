@@ -11,7 +11,7 @@ font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	margin: 0 auto;
 }
 .header {
-	background: ##CCE6E0;
+	background: #7D8D84;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -38,7 +38,7 @@ font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #3A3A3A;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -49,8 +49,7 @@ a:link {
      color: #407742;
 }
 a:visited {
-     color: #
-}
+     color: ##57764A;
 a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
