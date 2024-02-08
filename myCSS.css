@@ -45,10 +45,9 @@ font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 a:link {
-     color: #407742;
-}
+     color: #1B5C56;
 a:visited {
-     color: ##57764A;
-a:hover, a:active, a:focus { 
+     color: #0A5724;
+	     a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
