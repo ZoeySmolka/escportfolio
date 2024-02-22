@@ -45,9 +45,11 @@ font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #1D1D1D;
+}
 a:visited {
-     color: #000000;
+     color: #1D1D1D;
+}
 a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
